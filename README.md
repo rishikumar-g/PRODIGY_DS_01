@@ -1,3 +1,8 @@
+👋 Hi, I’m @rishikumar-g
+👀 I’m interested in Data Science and Data analysis
+🌱 I’m currently learning Python
+📫 How to reach me (gudellirishikumar@gmail.com) | Linkedin @ Rishi kumar G
+
 #PRODIGY_DS_01
 
 Hello people, this is the first task of pordigi info tech internship...
